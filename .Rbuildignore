@@ -1,2 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^Rbuildignore$
+^data-raw$
+^README\.Rmd$
+^README-.*\.png$
