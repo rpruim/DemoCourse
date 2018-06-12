@@ -8,4 +8,10 @@ Description: This is a demonstration package for CVW 2018 at
     Grinnell College
 Encoding: UTF-8
 LazyData: true
-Suggests: testthat
+Depends: mosaicData
+Imports: mosaic
+Suggests: testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 6.0.1.9000
+VignetteBuilder: knitr
